@@ -46,6 +46,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+./functions/venv
+./functions/__pycache__
 
 # Optional npm cache directory
 .npm
